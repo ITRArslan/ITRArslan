@@ -3,9 +3,11 @@
 
 👋 I'm a Full Stack Developer with over 5 years of experience specializing in creating robust and scalable web applications using .NET and Angular.
 
+I'm currently working on Employee Portal and THM Revamp [(Talk Home Mobile)](https://talkhome.co.uk/)
+
 🔧 **Core Skills:**
 
-Backend: .NET Core (5.0, 6.0, 7.0, 8.0), WebAPI, MVC
+Backend: .NET Core (5.0, 6.0, 7.0, 8.0), WebAPI, MVC, C#, .NET
 Frontend: Angular (6, 13, 16, 17, 18), JavaScript, JQuery
 Database: SQL Server, MySQL
 Payment Integration: PayPal
