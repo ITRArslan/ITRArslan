@@ -18,7 +18,7 @@ Telecommunications
 
 **Practice Management System:** A comprehensive solution for onboarding practices, managing users, generating monthly invoices, and supporting various roles.
 
-💡 **Professional Highlights: **
+💡** Professional Highlights:**
 
 Successfully developed and deployed multiple applications in the healthcare and telecom domains.
 Expertise in building RESTful APIs and implementing microservices architecture.
