@@ -1,4 +1,5 @@
 ## Myself Muhammad Arslan Tufail
+💼 [LinkedIn](https://www.linkedin.com/in/muhammad-arslan-tufail-b99150843/)
 
 👋 I'm a Full Stack Developer with over 5 years of experience specializing in creating robust and scalable web applications using .NET and Angular.
 
@@ -11,14 +12,14 @@ Payment Integration: PayPal
 
 💼 **Domain Expertise:**
 
-Healthcare
+Healthcare and
 Telecommunications
 
 🚀 **Highlighted Project:**
 
 **Practice Management System:** A comprehensive solution for onboarding practices, managing users, generating monthly invoices, and supporting various roles.
 
-💡** Professional Highlights:**
+**💡 Professional Highlights:**
 
 Successfully developed and deployed multiple applications in the healthcare and telecom domains.
 Expertise in building RESTful APIs and implementing microservices architecture.
@@ -32,5 +33,5 @@ Tackling challenging problems and optimizing application performance.
 
 📫 **Let’s Connect:**
 I’m always open to collaboration, networking, and discussing innovative ideas. Feel free to reach out and connect with me!
-**Email: ** arslan03939@gmail.com
-**Blog Website: ** www.tjwords.com
+Email: arslan03939@gmail.com
+Blog Website: www.tjwords.com
