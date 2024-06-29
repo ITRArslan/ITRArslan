@@ -1,5 +1,4 @@
 ## Myself Muhammad Arslan Tufail
-💼 [LinkedIn](https://www.linkedin.com/in/muhammad-arslan-tufail-b99150843/)
 
 👋 I'm a Full Stack Developer with over 5 years of experience specializing in creating robust and scalable web applications using .NET and Angular.
 
