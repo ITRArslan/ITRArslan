@@ -36,3 +36,5 @@ Tackling challenging problems and optimizing application performance.
 I’m always open to collaboration, networking, and discussing innovative ideas. Feel free to reach out and connect with me!
 Email: arslan03939@gmail.com
 Blog Website: www.tjwords.com
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ITRArslan&theme=github-light)
